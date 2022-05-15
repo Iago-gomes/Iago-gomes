@@ -6,7 +6,6 @@ Olá, eu sou Iago Gomes
 
 🧑‍💻 Contate-me no e-mail: contatoiagogdm@gmail.com
 
-📫 How to reach me ...
 
 ## Olá eu sou Iago Gomes, e trabalho programação e tecnologia!
 <div align="center">
