@@ -12,7 +12,7 @@ Olá, eu sou Iago Gomes
 <div align="center" >
   <a href="https://github.com/Iago-gomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iago-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-gomes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-gomes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
