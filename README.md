@@ -7,7 +7,7 @@ Olá, eu sou Iago Gomes
 🧑‍💻 Contate-me no e-mail: contatoiagogdm@gmail.com
 
 
-## Olá eu sou Iago Gomes, e trabalho programação e tecnologia!
+## Olá eu sou Iago Gomes, e trabalho com programação e tecnologia!
 
 <div align="center" >
   <a href="https://github.com/Iago-gomes">
